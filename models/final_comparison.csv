@@ -1,0 +1,8 @@
+Model,ROC-AUC,Type
+XGBoost,0.8994,Classical
+Random Forest,0.8744,Classical
+KNN,0.8559,Classical
+Logistic Regression,0.8377,Classical
+Decision Tree,0.8336,Classical
+Autoencoder,0.6776,Unsupervised
+Quantum-LSTM,0.5154,Quantum-Hybrid

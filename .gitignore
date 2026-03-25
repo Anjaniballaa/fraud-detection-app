@@ -1,0 +1,6 @@
+X_train.npy
+X_test.npy
+.sfdx/
+__pycache__/
+*.pyc
+.env
